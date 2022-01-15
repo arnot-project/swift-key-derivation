@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommonCryptoWrapper",
+        "repositoryURL": "https://github.com/arnot-project/swift-commoncrypto",
+        "state": {
+          "branch": null,
+          "revision": "e028cdf4944b4c4b0204c43a641d81e09fb1efdc",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "NaCl",
+        "repositoryURL": "https://github.com/arnot-project/swift-nacl",
+        "state": {
+          "branch": null,
+          "revision": "4b104c94c2048043e1462f4d59eac46262e59b4d",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
